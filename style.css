@@ -1,0 +1,157 @@
+/****************************
+*Auther: Dalia Zegaya
+****************************/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+#logo {
+    height: 10vh;
+     width: 10wh; 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.pirsomet {
+    
+    width: 1192px;
+    height: 90px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+   
+}
+#join {background-color: blue;
+    color: white;
+    width: 164.68px;
+    height: 28;
+    font-size: 15px;
+    
+    
+
+}
+
+header {height: 10vh;}
+
+body{direction: rtl;}
+
+h1 {font-size: 42px;}
+
+p {font-size: 18px; }
+
+a {text-decoration: none; color: white;}
+
+ul{
+    background-color: #DE1A1A;
+    color: white;
+    position: absolute;
+    width: 95%;
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    height: 3vh;
+    font-size: 15px;
+    
+}
+#od {border: 2px solid white;
+border-radius: 10px; padding-left: 15px; padding-right: 3px;}
+
+#pic1 {
+    height: 343px; width: 611px;
+}
+h1 {font-size: 48px;}
+p {
+    font-size: 18px;
+    font-style:inherit;
+}
+
+
+span {
+    color: #78787B;
+}
+
+
+.first {
+    display: inline-block;
+    background-color:white;
+    width: 611px;
+    height: 343px;
+    margin-right: 165px;
+    margin-top: 1px;
+
+}
+
+.second {
+    display: inline-block;
+    background-color: white;
+    width: 611px;
+    height: 343px;
+    margin-right: 15px;
+    margin-top: 1px;
+    position: absolute;
+    background-image: url('pic2.jpg');
+    background-size: cover;
+}
+
+.alam {
+    display:flex;
+    margin-right: 15px;
+   
+}
+
+
+.inline {
+    display:grid;
+    margin-right:325px;
+
+}
+
+#alljobs {
+    margin-top: -500px;
+    
+}
+
+#car {
+    margin-top: -250px;
+}
+
+.redtable {
+    background-color: #DE1A1A;
+    color: white;
+    direction: ltr;
+
+}
+
+.bluetable {
+    background-color: blue;
+    color: white;
+    direction: ltr;
+    
+}
+
+.littlepic {
+    width: 100px;
+    height: 100px;
+}
+
+.table {
+    position: absolute;
+    justify-content:left;
+    display: grid;
+    position: relative;
+    top: -500px;
+    height: 70vh;
+    margin-left: 115px;
+    
+    
+    }
+    
+
+
+
+
+
